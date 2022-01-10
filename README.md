@@ -16,3 +16,4 @@
 
 ## Python学习
 [基础知识笔记](https://github.com/kidoom/TASKS/blob/master/Python%E5%AD%A6%E4%B9%A0/python%E5%85%A5%E9%97%A8.md)
+[跟着网站制作demo 时钟](https://github.com/kidoom/TASKS/blob/master/demo/time.py)
