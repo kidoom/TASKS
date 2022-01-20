@@ -17,3 +17,8 @@
 ## Python学习
 [基础知识笔记](https://github.com/kidoom/TASKS/blob/master/Python%E5%AD%A6%E4%B9%A0/python%E5%85%A5%E9%97%A8.md)
 [跟着网站制作demo 时钟](https://github.com/kidoom/TASKS/blob/master/demo/time.py)
+
+
+##爬虫学习
+[爬虫学习初步](https://github.com/kidoom/TASKS/blob/master/%E7%BD%91%E7%BB%9C%E7%88%AC%E8%99%AB%E5%AD%A6%E4%B9%A0/%E7%88%AC%E8%99%AB%E5%AD%A6%E4%B9%A0.md)
+[geek网页爬取](https://github.com/kidoom/TASKS/edit/master/%E7%BD%91%E7%BB%9C%E7%88%AC%E8%99%AB%E5%AD%A6%E4%B9%A0/geek%E7%88%AC%E5%8F%96%E7%BB%93%E6%9E%9C.md)
