@@ -215,7 +215,7 @@ with open('./img/z.png', 'wb') as f:
 
 思路：**完成基本配置后，我通过xpath解析节点获取网页文字和信息**，**但是我的代码在处理图片方面显得过于冗余了，可以进一步优化，以为我暂时还没有学会xpath的遍历（也可能是我前端没有学好） 所以目前我是一个个写的 比较笨的方法，所以希望过段时间我能优化一下自己的代码。**
 
-成果展示：
+成果展示:
 
 网页文字：![img](https://github.com/kidoom/TASKS/blob/master/%E7%BD%91%E7%BB%9C%E7%88%AC%E8%99%AB%E5%AD%A6%E4%B9%A0/geekwords.png)
 图片爬取：![img](https://github.com/kidoom/TASKS/blob/master/%E7%BD%91%E7%BB%9C%E7%88%AC%E8%99%AB%E5%AD%A6%E4%B9%A0/2022-01-20_205513.png)
