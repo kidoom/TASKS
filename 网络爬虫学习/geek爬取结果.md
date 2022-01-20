@@ -217,5 +217,6 @@ with open('./img/z.png', 'wb') as f:
 
 成果展示：
 
-网页文字：
+网页文字：[](https://github.com/kidoom/TASKS/blob/master/%E7%BD%91%E7%BB%9C%E7%88%AC%E8%99%AB%E5%AD%A6%E4%B9%A0/geekwords.png)
+图片爬取：[](https://github.com/kidoom/TASKS/blob/master/%E7%BD%91%E7%BB%9C%E7%88%AC%E8%99%AB%E5%AD%A6%E4%B9%A0/2022-01-20_205513.png)
 
